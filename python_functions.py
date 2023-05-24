@@ -10,8 +10,8 @@ print(sum_to(10))
 def largest(list):
     return max(list)
 
-print(largest([1, 2, 3, 4, 0]))
-print(largest([10, 4, 2, 231, 91, 54]))
+# print(largest([1, 2, 3, 4, 0]))
+# print(largest([10, 4, 2, 231, 91, 54]))
 
 # Write a function named occurances that takes two string arguments as input and counts the number of occurances of the second string inside the first string.
 
